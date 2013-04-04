@@ -46,7 +46,7 @@
           <div class="nav-collapse collapse">
 
             <ul class="nav">
-              <li><a href="#intro">Intro</a></li>
+              <li class="active"><a href="#intro">Intro</a></li>
               <li><a href="#formation">Formation</a></li>
               <li><a href="#experiences">Experiences</a></li>
             </ul>
