@@ -241,6 +241,8 @@ a:focus {
   text-decoration: underline;
 }
 
+a#keyWord { color: #33AD33; }
+
 .img-rounded {
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
